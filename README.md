@@ -9,4 +9,5 @@ Shoutout to [this helpful comment](https://github.com/rails/webpacker/issues/205
 
 After additional searching, I found that [this guide](https://railsbytes.com/public/templates/X6ksRW) does almost the same as me. And it even includes a script to do all of this in one go.
 
-There is additional helpful info in the official documentation - https://get.foundation/sites/docs/sass.html
+There is additional helpful info in [the official documentation for Foundation and Sass](https://get.foundation/sites/docs/sass.html)
+and [the webpacker GitHub readme](https://github.com/rails/webpacker)
