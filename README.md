@@ -11,3 +11,5 @@ After additional searching, I found that [this guide](https://railsbytes.com/pub
 
 There is additional helpful info in [the official documentation for Foundation and Sass](https://get.foundation/sites/docs/sass.html)
 and [the webpacker GitHub readme](https://github.com/rails/webpacker)
+
+For info on how to remove sprockets and use just webpakc see [this post](https://andre.arko.net/2020/07/09/rails-6-with-webpack-in-appassets-and-no-sprockets/)
