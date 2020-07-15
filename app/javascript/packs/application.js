@@ -17,7 +17,7 @@ require("channels")
 // const imagePath = (name) => images(name, true)
 
 import "foundation-sites"
-require("src/application")
+require("stylesheets/application")
 
 $(document).on('turbolinks:load', function() {
   $(document).foundation()
